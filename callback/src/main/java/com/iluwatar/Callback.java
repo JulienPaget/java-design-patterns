@@ -5,5 +5,5 @@ package com.iluwatar;
  */
 public interface Callback {
 
-	public void call();
+	public void call
 }
